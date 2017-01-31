@@ -1,20 +1,21 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Magento2 French Language Pack (fr_FR)
+ * Magento2 French Language Pack (fr_CA)
  * 
  * Website: http://imaginaerum.github.io/magento2-language-fr-fr
- * Github: https://github.com/Imaginaerum/magento2-language-fr-fr
- * Packagist: https://packagist.org/packages/imaginaerum/magento2-language-fr-fr
+ * Github: https://github.com/cbrunet/magento2-language-fr-ca
+ * Packagist: https://packagist.org/packages/cbrunet/magento2-language-fr-ca
  * 
  * @author Sylvain Kocet <pyksel@gmail.com>
+ * @author Charles Brunet <charles@cbrunet.net>
  * @copyright Copyright © 2016 Imaginaerum
- * @version 100.6.23
+ * @version 100.7.00
  */
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
-    <code>fr_FR</code>
-    <vendor>imaginaerum</vendor>
-    <package>fr_fr</package>
+    <code>fr_CA</code>
+    <vendor>cbrunet</vendor>
+    <package>fr_ca</package>
     <sort_order>1</sort_order>
 </language>
