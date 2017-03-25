@@ -1,7 +1,7 @@
 {
     "name": "cbrunet/magento2-language-fr-ca",
     "description": "Magento2 French Language Pack (fr_CA)",
-    "version": "100.7.01",
+    "version": "100.7.02",
     "type": "magento2-language",
     "homepage": "http://cbrunet.github.io/magento2-language-fr-ca",
     "keywords": [
@@ -19,7 +19,7 @@
     "license": [
         "MIT"
     ],
-    "require": {"imaginaerum/magento2-language-fr-fr":"100.6.*"},
+    "require": {},
     "autoload": {
         "files": [
             "registration.php"
