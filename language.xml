@@ -18,4 +18,5 @@
     <vendor>cbrunet</vendor>
     <package>fr_ca</package>
     <sort_order>1</sort_order>
+    <use vendor="imaginaerum" package="magento2-language-fr-fr"/>
 </language>

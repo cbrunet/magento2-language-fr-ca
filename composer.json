@@ -19,7 +19,7 @@
     "license": [
         "MIT"
     ],
-    "require": {},
+    "require": {"imaginaerum/magento2-language-fr-fr"},
     "autoload": {
         "files": [
             "registration.php"
